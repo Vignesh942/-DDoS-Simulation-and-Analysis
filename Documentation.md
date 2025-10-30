@@ -25,7 +25,6 @@ restricted to lab VMs only.
 ● Monitoring: Wireshark for packet capture; Snort for intrusion detection and alerting
 ● Test window: Jan–Feb 2025 (performed during internship POC)
 
-
 ## Pre-test configuration
 1. Ensure attacker and target are isolated from any external networks.
 Start Snort on the target for real-time alerting:
@@ -91,4 +90,15 @@ The POC validated that a high-rate SYN flood produces clear, detectable signatur
 that Snort can detect such behavior. Basic kernel and firewall mitigations (SYN cookies, rate-limiting) reduce
 impact. For public services, upstream and cloud mitigations are recommended along with IDS tuning and
 monitoring.
-DEMO:
+
+## Demo
+
+<img width="1866" height="935" alt="Screenshot 2025-10-30 163331" src="https://github.com/user-attachments/assets/12072472-f6b7-4b13-bef6-cb1c29c1b68e" />
+
+<img width="431" height="126" alt="Screenshot 2025-10-30 163451" src="https://github.com/user-attachments/assets/d6661a65-923c-4088-9ca3-de8b5603cb4b" />
+
+<img width="1910" height="251" alt="Screenshot 2025-10-30 163554" src="https://github.com/user-attachments/assets/96a84335-df88-4a1c-9217-366c1b8599c0" />
+
+## Download pdf here:
+[Proof of Concept_ DDoS Simulation and Analysis.pdf](https://github.com/user-attachments/files/23232448/Proof.of.Concept_.DDoS.Simulation.and.Analysis.pdf)
+
