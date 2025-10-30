@@ -1,4 +1,4 @@
-# -DDoS-Simulation-and-Analysis
+# DDoS-Simulation-and-Analysis
 
 A concise proof-of-concept showing a controlled TCP SYN flood simulation in a lab environment. The goal is to demonstrate attack behavior, capture traffic, validate detection with Snort, and provide simple, practical mitigations.
 
