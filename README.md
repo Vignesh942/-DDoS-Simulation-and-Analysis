@@ -13,4 +13,4 @@ Test environment: isolated lab (Kali attacker, Ubuntu target)
 
 Key outcome: Snort detected SYN flood patterns; Wireshark capture confirms high SYN rate. Recommendations include SYN cookies, rate limiting, IDS tuning, and upstream mitigations.
 
-## Visit Doucmenation for more Info
+## Visit Documentation for more Info
